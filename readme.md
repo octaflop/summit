@@ -4,7 +4,7 @@
 
 A mountainous approach to a web media portfolio.
 
-### Built with: Hugo Starter Theme with Tailwind CSS
+### Built with: [Hugo Starter Theme with Tailwind CSS](https://github.com/dirkolbrich/hugo-tailwindcss-starter-theme)
 
 Starter files for a Hugo theme with Tailwind CSS.
 

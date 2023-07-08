@@ -12,4 +12,7 @@
     .welcome-headline {
         @apply text-sky-600;
     }
+    .bye-headline {
+        @apply text-sky-800;
+    }
 }
